@@ -1,7 +1,7 @@
 /**
 *Marco A. Zuniga
 *ELEC 5260: Final Project
-*Description: Utilize both the accellerometer and magnetometer on a 
+*Description: Utilize both the accelerometer and magnetometer on a 
 *             STM32L476G Discovery Board using a RTOS OS
 */
 /* Includes ------------------------------------------------------------------*/
